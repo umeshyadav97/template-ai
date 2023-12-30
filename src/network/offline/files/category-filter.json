@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "code": 200,
+  "data": [
+    {
+      "id": "7a72d6ca-aae6-4455-ba87-84f8b042317a",
+      "name": "Entertainment & Music"
+    },
+    {
+      "id": "7480b8fc-8259-4619-9a61-9b0e5ab1297c",
+      "name": "Health & fitness"
+    },
+    {
+      "id": "b76b6ba1-1aeb-4cd8-b227-0aceca050ab7",
+      "name": "Medical"
+    },
+    {
+      "id": "911d5821-3a87-417e-acb3-c3543fdadb0c",
+      "name": "Navigation"
+    },
+    {
+      "id": "fb9d29c9-ed07-4ecd-9479-221f83590dfd",
+      "name": "Social"
+    },
+    {
+      "id": "6ca4bbb4-89d8-4fd7-90d2-b9d34cb24e64",
+      "name": "Travel"
+    }
+  ]
+}

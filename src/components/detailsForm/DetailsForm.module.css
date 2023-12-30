@@ -1,0 +1,17 @@
+.fieldHeading {
+}
+.basicBox {
+  margin-bottom: 20px;
+}
+
+.typeText {
+  font-family: Inter Medium !important;
+  font-size: 1.6rem !important;
+  line-height: 2rem !important;
+}
+
+.priceText {
+  font-family: Inter Regular !important;
+  font-size: 1.4rem !important;
+  line-height: 2rem !important;
+}

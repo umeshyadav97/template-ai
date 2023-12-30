@@ -1,0 +1,61 @@
+.wishText {
+  font-family: Inter SemiBold !important;
+  font-size: 2rem !important;
+}
+.secondaryText {
+  font-family: Inter Medium !important;
+  font-size: 1.2rem !important;
+  margin-left: 10px;
+  color: #667085;
+}
+.button {
+  border: 1px solid #eaecf0;
+  border-radius: 3px;
+  width: 112px;
+  height: 32px;
+  padding: 8px 14px;
+  cursor: pointer;
+}
+.notesText {
+  font-family: Inter Regular;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-left: 10px;
+}
+.imageContainer {
+  width: 650px;
+  height: 426px;
+}
+@media (max-width: 900px) {
+  .imageContainer {
+    width: 470px;
+    height: 226px;
+  }
+}
+@media (max-width: 1024px) and (min-width: 901px) {
+  .imageContainer {
+    width: 500px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 1281px) and (min-width: 1025px) {
+  .imageContainer {
+    width: 550px;
+    height: 326px;
+  }
+}
+.descpText {
+  font-family: Inter Regular;
+  font-size: 1.4rem !important;
+  font-weight: 400;
+  width: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; /* Center the text */
+  word-wrap: break-word;
+}
+.cursor {
+  cursor: pointer;
+}

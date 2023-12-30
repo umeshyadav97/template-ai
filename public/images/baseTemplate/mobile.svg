@@ -1,0 +1,53 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#555D6B"/>
+<g id="1.Choose base">
+<path d="M-11801 -745C-11801 -746.105 -11800.1 -747 -11799 -747H8566C8567.11 -747 8568 -746.105 8568 -745V1206C8568 1207.1 8567.11 1208 8566 1208H-11799C-11800.1 1208 -11801 1207.1 -11801 1206V-745Z" fill="#46475E"/>
+<path d="M-11799 -746H8566V-748H-11799V-746ZM8567 -745V1206H8569V-745H8567ZM8566 1207H-11799V1209H8566V1207ZM-11800 1206V-745H-11802V1206H-11800ZM-11799 1207C-11799.6 1207 -11800 1206.55 -11800 1206H-11802C-11802 1207.66 -11800.7 1209 -11799 1209V1207ZM8567 1206C8567 1206.55 8566.55 1207 8566 1207V1209C8567.66 1209 8569 1207.66 8569 1206H8567ZM8566 -746C8566.55 -746 8567 -745.553 8567 -745H8569C8569 -746.657 8567.66 -748 8566 -748V-746ZM-11799 -748C-11800.7 -748 -11802 -746.657 -11802 -745H-11800C-11800 -745.552 -11799.6 -746 -11799 -746V-748Z" fill="black" fill-opacity="0.1"/>
+<g id="Create Custom Template" clip-path="url(#clip0_7420_117869)">
+<rect width="1440" height="1462" transform="translate(-760 -647)" fill="white"/>
+<g id="Frame 4065">
+<rect x="-106.5" y="-358.5" width="369" height="373" rx="3.5" stroke="#D0D5DD"/>
+<g id="Frame 4062">
+<path d="M-91 -56H247V-58H-91V-56Z" fill="#D0D5DD" mask="url(#path-4-inside-1_7420_117869)"/>
+</g>
+</g>
+<g id="Rectangle 1" filter="url(#filter0_b_7420_117869)">
+<rect x="-760" y="-647" width="1440" height="1462" fill="black" fill-opacity="0.16"/>
+</g>
+<g id="Frame 4081">
+<g clip-path="url(#clip1_7420_117869)">
+<g id="Group 5">
+<rect id="Rectangle 7" x="-513" y="-473" width="947" height="1129" rx="8" fill="white"/>
+</g>
+<g id="Frame 4129">
+<g id="Frame 4080">
+<g id="Frame 4109">
+<g id="smartphone" clip-path="url(#clip2_7420_117869)">
+<path id="Vector" d="M17 -3.42188H7C5.89543 -3.42188 5 -2.52644 5 -1.42188V14.5781C5 15.6827 5.89543 16.5781 7 16.5781H17C18.1046 16.5781 19 15.6827 19 14.5781V-1.42188C19 -2.52644 18.1046 -3.42188 17 -3.42188Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M12 12.5781H12.01" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_7420_117869" x="-764" y="-651" width="1448" height="1470" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7420_117869"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_7420_117869" result="shape"/>
+</filter>
+<clipPath id="clip0_7420_117869">
+<rect width="1440" height="1462" fill="white" transform="translate(-760 -647)"/>
+</clipPath>
+<clipPath id="clip1_7420_117869">
+<rect x="-513" y="-473" width="947" height="1129" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip2_7420_117869">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

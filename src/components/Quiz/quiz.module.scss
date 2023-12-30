@@ -1,0 +1,162 @@
+.motion {
+  border-radius: 8px;
+  border: 1px solid #6ce9a6;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px;
+  width: 157px;
+}
+
+.app_goal {
+  width: 35rem;
+  padding: 2.4rem 4.8rem;
+  gap: 16px;
+}
+
+.fund_strategy {
+  width: 35rem;
+  padding: 2.4rem 4.8rem;
+  gap: 16px;
+}
+
+.fund_strategy_height {
+  height: 132px;
+}
+
+.completion_timeline {
+  width: 35rem;
+  padding: 2.4rem 4.8rem;
+  gap: 16px;
+}
+
+.completion_timeline_height {
+  height: 20rem !important;
+}
+
+@media only screen and (max-width: 1200px) {
+  .completion_timeline_height {
+    height: 23rem !important;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .motion {
+    width: 142px;
+    gap: 10px !important;
+    padding: 12px 24px !important;
+  }
+  .content_div {
+    border-radius: 40px 40px 0px 0px !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .motion {
+    width: 140px !important;
+  }
+  .app_goal,
+  .fund_strategy,
+  .completion_timeline {
+    width: 30rem !important;
+    gap: 10px;
+    padding: 2rem 3rem;
+  }
+  .fund_strategy_height {
+    height: 100px !important;
+  }
+  .completion_timeline_height {
+    height: 26rem !important;
+  }
+}
+
+@media only screen and (max-width: 509px) {
+  .motion {
+    width: 140px !important;
+  }
+  .app_goal {
+    width: 30rem !important;
+    gap: 10px;
+    padding: 20px;
+  }
+  .fund_strategy_height {
+    height: 95px !important;
+  }
+}
+
+@media only screen and (max-width: 403px) {
+  .app_goal {
+    width: auto !important;
+    max-width: 26rem !important;
+    gap: 10px;
+  }
+  .fund_strategy {
+    width: auto !important;
+    max-width: 26rem !important;
+    gap: 10px;
+  }
+  .completion_timeline {
+    width: auto !important;
+    max-width: 26rem !important;
+    gap: 10px;
+  }
+  .fund_strategy_height {
+    height: 85px !important;
+  }
+  .completion_timeline_height {
+    height: auto !important;
+  }
+}
+
+@media only screen and (max-width: 387px) {
+  .motion {
+    width: 125px !important;
+  }
+}
+
+@media only screen and (max-width: 358px) {
+  .app_goal,
+  .fund_strategy,
+  .completion_timeline {
+    width: 22rem !important;
+    padding: 20px;
+    gap: 10px;
+  }
+  .completion_timeline_height {
+    height: auto !important;
+  }
+}
+
+.avtar_res {
+  max-width: 48rem;
+  max-height: 48rem;
+
+  @media only screen and (max-width: 600px) {
+    max-width: 30rem;
+    max-height: 30rem;
+  }
+  @media only screen and (max-width: 400px) {
+    max-width: 20rem;
+    max-height: 20rem;
+  }
+  @media only screen and (max-width: 376px) {
+    max-width: 17rem;
+    max-height: 17rem;
+  }
+}
+
+.avtar_open_res {
+  max-width: 22rem;
+  max-height: 22rem;
+
+  @media only screen and (max-width: 400px) {
+    max-width: 20rem;
+    max-height: 20rem;
+  }
+  @media only screen and (max-width: 376px) {
+    max-width: 17rem;
+    max-height: 17rem;
+  }
+}

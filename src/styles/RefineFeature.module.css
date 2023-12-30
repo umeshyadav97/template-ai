@@ -1,0 +1,12 @@
+.container {
+  border-left: 1px solid var(--gray-200, #eaecf0);
+  height: 122vh;
+  overflow-y: auto;
+}
+.gridDivider {
+  border-bottom: 1px solid var(--gray-200, #eaecf0);
+}
+.headingText {
+  color: var(--Black, #000);
+  padding: 24px;
+}

@@ -1,0 +1,58 @@
+.wishText {
+  font-family: Inter Medium !important;
+  font-size: 2rem !important;
+  /* font-weight: 600; */
+}
+.secondaryText {
+  font-family: Inter Medium !important;
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+  margin-left: 10px;
+  color: #667085;
+}
+.button {
+  border: 1px solid #eaecf0;
+  border-radius: 3px;
+  width: 112px;
+  height: 32px;
+  padding: 8px 14px;
+  cursor: pointer;
+}
+.notesText {
+  font-family: Inter Regular;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-left: 10px;
+}
+.descpText {
+  font-family: Inter Regular;
+  font-size: 1.4rem !important;
+  font-weight: 400;
+}
+.imageContainer {
+  width: 250px;
+  height: 520px;
+}
+
+@media (max-width: 900px) {
+  .imageContainer {
+    width: 220px;
+    height: 500px;
+  }
+}
+@media (max-width: 1024px) and (min-width: 901px) {
+  .imageContainer {
+    width: 200px;
+    height: 500px;
+  }
+}
+
+@media (max-width: 1281px) and (min-width: 1025px) {
+  .imageContainer {
+    width: 220px;
+    height: 500px;
+  }
+}
+.cursor {
+  cursor: pointer;
+}

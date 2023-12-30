@@ -1,0 +1,23 @@
+.imageContainer {
+  width: 591px;
+  height: 522px;
+}
+@media (max-width: 900px) {
+  .imageContainer {
+    width: 380px;
+    height: 350px;
+  }
+}
+@media (max-width: 1024px) and (min-width: 901px) {
+  .imageContainer {
+    width: 500px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 1281px) and (min-width: 1025px) {
+  .imageContainer {
+    width: 550px;
+    height: 326px;
+  }
+}

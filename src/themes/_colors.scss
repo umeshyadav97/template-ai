@@ -1,0 +1,44 @@
+$color-primary: #6941C6;
+$color-blue: #1570EF;
+// - #445ebe;
+$color-white: #ffffff;
+$color-secondary: #026AA2;
+$color-midPink: #ffb0a7;
+//  - #fa8072;
+$color-pink: #fa8072;
+$color-lightPink: #ffe6e4;
+$color-green: #55a55e;
+$color-lightGreen: #edffef;
+$color-purple: #5e5499;
+$color-lightPurple: #f4f2ff;
+$color-blue1: #445ebe;
+$color-lightBlue1: #ebefff;
+$color-error: #e13838;
+$color-complementing_Error: #fcebeb;
+$color-success: #50e138;
+$color-complementing_Success: #edffef;
+$table-header-background: #fafafa;
+$theme-colors: (
+  primary: $color-primary,
+  secondary: $color-secondary,
+  mainPink: $color-pink,
+  midPink: $color-midPink,
+  lightPink: $color-lightPink,
+  mainWhite: $color-white,
+  mainBlue: $color-blue,
+  blue1: $color-blue1,
+  lightBlue1: $color-lightBlue1,
+  mainGreen: $color-green,
+  lightGreen: $color-lightGreen,
+  mainPurple: $color-purple,
+  lightPurple: $color-lightPurple,
+  error: $color-error,
+  complementing_Error: $color-complementing_Error,
+  success: $color-success,
+  complementing_Success: $color-complementing_Success,
+  table-head-background: $table-header-background
+);
+
+@function theme-color($key) {
+  @return map-get($theme-colors, $key);
+}
